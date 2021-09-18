@@ -19,4 +19,6 @@ Visit the [RMIT Activator on GitHub](https://github.com/RMIT-Activator)
 
 [Educators](https://www.rmit.edu.au/for-business/activator/educators)
 
+![image](https://user-images.githubusercontent.com/13181456/133888025-81f80f17-d464-4c12-ac72-6fedde4c9e92.jpeg)
+
 ![image](https://user-images.githubusercontent.com/13181456/133887053-7196e741-15f9-425c-9768-60bffc0a8276.jpeg)
