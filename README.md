@@ -16,3 +16,5 @@ Join the RMIT Activator Community and [Engage through GitHub Discussions](https:
 [Partnerships](https://www.rmit.edu.au/for-business/activator/partnerships)
 
 [Educators](https://www.rmit.edu.au/for-business/activator/educators)
+
+![image](https://user-images.githubusercontent.com/13181456/133887053-7196e741-15f9-425c-9768-60bffc0a8276.jpeg)
