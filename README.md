@@ -6,6 +6,8 @@ Activator is RMIT’s growth engine for entrepreneurship and innovation. We deli
 
 Check out our [GitHub Pages RMIT Activator Site](https://rmit-activator.github.io/.github/) 
 
+Join the RMIT Activator Community and [Engage through GitHub Discussions](https://github.com/RMIT-Activator/.github/discussions)
+
 ## Key areas of focus
 [Students](https://www.rmit.edu.au/for-business/activator/students)
 
