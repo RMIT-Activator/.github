@@ -13,3 +13,4 @@ Check out [RMIT Activator on GitHub](https://github.com/RMIT-Activator)
 
 Join the RMIT Activator Community and [Engage through GitHub Discussions](https://github.com/RMIT-Activator/.github/discussions)
 
+![image](https://user-images.githubusercontent.com/13181456/133887093-8a86f3d6-5adb-4555-acad-cb9d2e876fa6.jpeg)
