@@ -1,5 +1,5 @@
 ## [RMIT Activator](https://www.rmit.edu.au/for-business/activator)
-![image](https://user-images.githubusercontent.com/13181456/133865661-f30e7917-cfaf-49cb-9b35-c96b674e9840.jpeg)
+[![Watch the video](https://img.youtube.com/vi/LCbOvfNqjFI/maxresdefault.jpg)](https://youtu.be/LCbOvfNqjFI)
 
 ### We unlock entrepreneurial potential to create sustainable impact.
 Activator is RMIT’s growth engine for entrepreneurship and innovation. We deliver entrepreneurial experiences which create value for all our audiences. We strive to build knowledge, capabilities and networks for future impact and success.
