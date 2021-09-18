@@ -8,7 +8,9 @@ Check out our [GitHub Pages RMIT Activator Site](https://rmit-activator.github.i
 
 Join the RMIT Activator Community and [Engage through GitHub Discussions](https://github.com/RMIT-Activator/.github/discussions)
 
-## Key areas of focus
+Visit the [RMIT Activator on GitHub](https://github.com/RMIT-Activator)
+
+## Key areas of focus at [the RMIT Activator](https://www.rmit.edu.au/for-business/activator)
 [Students](https://www.rmit.edu.au/for-business/activator/students)
 
 [Startups](https://www.rmit.edu.au/for-business/activator/startups)
