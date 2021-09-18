@@ -13,3 +13,6 @@ Join the RMIT Activator Community and [Engage through GitHub Discussions](https:
 
 [Startups](https://www.rmit.edu.au/for-business/activator/startups)
 
+[Partnerships](https://www.rmit.edu.au/for-business/activator/partnerships)
+
+[Educators](https://www.rmit.edu.au/for-business/activator/educators)
